@@ -1,20 +1,20 @@
-# 💧 H2Know (A.W.A.R.E. - Automatic Water Analysis & Real-time Evaluation)
+#  H2Know (A.W.A.R.E. - Automatic Water Analysis & Real-time Evaluation)
 
 > Un ecosistem tehnologic inovator ce oferă acces în timp real la date despre siguranța apei, integrând un dispozitiv hardware propriu și o platformă digitală avansată.
 
 ---
 
-## 🚀 Caracteristici principale (Features)
-* 📊 **Monitorizare în timp real:** Analiza instantanee a parametrilor critici ai apei: pH, turbiditate, temperatură și TDS.
-* 🗺️ **Hartă Interactivă:** Localizarea vizuală a zonelor cu apă potabilă, moderată sau periculoasă/contaminată, găzduită pe Netlify.
-* 🤖 **Asistent Virtual (Aqualoo AI):** Chatbot inteligent integrat pentru a răspunde la întrebări legate de calitatea apei și mediu.
-* 🗣️ **Comenzi Vocale:** Funcționalitate de tip Speech-to-Text pentru interacțiune naturală.
-* 🚨 **Buton de Urgență SOS:** Sistem rapid de raportare a pericolelor (poluare ilegală, inundații) cu suport pentru fotografii de pe teren.
-* 📈 **Calculator de Hidratare & Tracking:** Monitorizarea consumului zilnic, săptămânal și lunar de apă.
+## Caracteristici principale (Features)
+ **Monitorizare în timp real:** Analiza instantanee a parametrilor critici ai apei: pH, turbiditate, temperatură și TDS.
+ **Hartă Interactivă:** Localizarea vizuală a zonelor cu apă potabilă, moderată sau periculoasă/contaminată, găzduită pe Netlify.
+ **Asistent Virtual (Aqualoo AI):** Chatbot inteligent integrat pentru a răspunde la întrebări legate de calitatea apei și mediu.
+ **Comenzi Vocale:** Funcționalitate de tip Speech-to-Text pentru interacțiune naturală.
+ **Buton de Urgență SOS:** Sistem rapid de raportare a pericolelor (poluare ilegală, inundații) cu suport pentru fotografii de pe teren.
+ **Calculator de Hidratare & Tracking:** Monitorizarea consumului zilnic, săptămânal și lunar de apă.
 
 ---
 
-## 🛠️ Arhitectura Sistemului (Architecture)
+## Arhitectura Sistemului (Architecture)
 
 Ecosistemul H2Know conectează strâns componentele hardware și soluțiile software din cloud:
 
@@ -30,7 +30,7 @@ Ecosistemul H2Know conectează strâns componentele hardware și soluțiile soft
 
 ---
 
-## 📦 Structura Repository-ului (Repository Structure)
+## Structura Repository-ului (Repository Structure)
 
 Pentru a menține codul curat, organizați folderele astfel:
 
