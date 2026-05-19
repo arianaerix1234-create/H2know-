@@ -38,3 +38,18 @@ Pentru a menține codul curat, organizați folderele astfel:
 ├── web-assets/             # Codul sursă generat de Lovable AI (pentru Hartă și Chatbot)
 ├── design/                 # Fișierele CAD (.stl / .f3d) pentru carcasa printată 3D
 └── README.md               # Prezentarea generală a proiectului
+
+---
+
+## 🔧 Ghid de Instalare (Hardware)
+
+Pentru a rula codul pe dispozitivul vostru, urmați acești pași:
+
+1. Clonați acest repository.
+2. Deschideți folderul `hardware/` în **Arduino IDE**.
+3. Instalați librăria `Firebase_Arduino_Client` (sau librăria pe care ați folosit-o pentru Firebase).
+4. Introduceți credențialele voastre în cod:
+   ```cpp
+   #define WIFI_SSID "Nume_WiFi"
+   #define WIFI_PASSWORD "Parola_WiFi"
+   #define FIREBASE_HOST "h2know-cce20-default-rtdb.europe-west1.firebasedatabase.app"
