@@ -47,7 +47,7 @@ Pentru a rula codul pe dispozitivul vostru, urmați acești pași:
 
 1. Clonați acest repository.
 2. Deschideți fisierul `hardware.ino` în **Arduino IDE**.
-3. Instalați librăria `Firebase_Arduino_Client` (sau librăria pe care ați folosit-o pentru Firebase).
+3. Instalați librăria `Firebase_Arduino_Client`.
 4. Introduceți credențialele voastre în cod:
    ```cpp
    #define WIFI_SSID "Nume_WiFi"
