@@ -25,7 +25,7 @@ The H2Know ecosystem bridges hardware components and cloud software solutions se
 2. **Cloud Backend:**
    * **Firebase Realtime Database:** Instant and secure storage of the data streams received from the device.
 3. **Mobile & Web Application:**
-   * Built using the **Thunkable** platform, synchronized via API keys with Firebase.
+   * Built using the **FlutterFlow** platform, synchronized via API calls with Firebase.
    * Advanced modules (the Map and Chatbot) built with **Lovable AI** and deployed on **Netlify**.
 
 ---
@@ -42,8 +42,8 @@ To maintain clean and organized code, files are structured as follows:
 
 ## 📱 Mobile Application (Thunkable)
 
-The complete mobile application project, built using Thunkable's no-code blocks, can be viewed and cloned from the following link:
-🔗 [Open H2Know on Thunkable](https://x.thunkable.com/copy/d21add1611a7cd191678a147615b7fd8)
+The complete mobile application project, built using FlutterFlow low-code, can be viewed and cloned from the following link:
+🔗 [Open H2Know on FlutterFlow](https://x.thunkable.com/copy/d21add1611a7cd191678a147615b7fd8)
 
 
 ---
