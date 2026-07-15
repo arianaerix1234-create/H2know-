@@ -1,0 +1,13 @@
+{
+  "dispozitiv_apa": {
+    "date": {
+      "ph": "7.15",
+      "reason": "High turbidity (water is cloudy).",
+      "tds": "74 PPM",
+      "temperature": "25.0 °C",
+      "turbidity": "3000 NTU",
+      "verdict": "NOT POTABLE"
+    }
+  },
+  "test_conexiune": 810
+}
