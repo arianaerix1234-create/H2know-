@@ -59,7 +59,7 @@ To maintain clean and organized code, files are structured as follows:
 ##  Mobile Application (FlutterFlow)
 
 The complete mobile application project, built using FlutterFlow low-code, can be viewed and cloned from the following link:
-🔗 [Open H2Know on FlutterFlow](https://x.thunkable.com/copy/d21add1611a7cd191678a147615b7fd8)
+🔗 [Open H2Know on FlutterFlow](https://h2-know-wyot4s.flutterflow.app)
 
 
 ---
