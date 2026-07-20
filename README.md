@@ -23,10 +23,8 @@ The project seamlessly integrates a **physical hardware device** equipped with c
 
 | Team Member | Role & Responsibilities |
 | :--- | :--- |
-| **Cucu Alexandra clasa a IX-a D, Colegiul Național „Ferdinand I” Bacău** | **Embedded Systems
-Engineer, Software Developer, 3D Designer, Business Analyst, UIDesigner, UI Writer**<br> |
-| **Mateeș Erica Paula, clasa a IX-a D, Colegiul Național „Ferdinand I” Bacău** | **Lead software
-developer,App Developer, Database Administrator,Authentication & Security Specialist, UI Designer**<br>. |
+| **Cucu Alexandra clasa a IX-a D, Colegiul Național „Ferdinand I” Bacău** | **Embedded Systems Engineer, Software Developer, 3D Designer, Business Analyst, UI Designer, UI Writer**<br> |
+| **Mateeș Erica Paula, clasa a IX-a D, Colegiul Național „Ferdinand I” Bacău** | **Lead software developer,App Developer, Database Administrator,Authentication & Security Specialist, UI Designer**<br>. |
 
 ##  Key Features
 *  **Real-Time Monitoring:** Instant analysis of critical water parameters: pH, turbidity, temperature, and TDS.
