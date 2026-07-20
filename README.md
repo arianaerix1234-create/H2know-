@@ -1,7 +1,7 @@
 # H2Know (A.W.A.R.E. - Automatic Water Analysis & Real-time Evaluation)
 
 > **An innovative Arduino-based water monitoring solution designed to analyze safety in real-time and optimize personal daily hydration.**
-
+> 
 ---
 
 ##  Project Overview
@@ -20,6 +20,14 @@ The project seamlessly integrates a **physical hardware device** equipped with c
 3. **The Mobile App:** Displays live water metrics, issues instant safety verdicts (Potable vs. Non-Potable), maps water quality data, and features an advanced daily hydration calculator based on dynamic user metrics.
 
 ---
+
+| Team Member | Role & Responsibilities |
+| :--- | :--- |
+| **Cucu Alexandra clasa a IX-a D, Colegiul Național „Ferdinand I” Bacău** | **Embedded Systems
+Engineer, Software Developer, 3D Designer, Business Analyst, UIDesigner, UI Writer**<br> |
+| **Mateeș Erica Paula, clasa a IX-a D, Colegiul Național „Ferdinand I” Bacău** | **Lead software
+developer,App Developer, Database Administrator,Authentication & Security Specialist, UI Designer**<br>. |
+
 ##  Key Features
 *  **Real-Time Monitoring:** Instant analysis of critical water parameters: pH, turbidity, temperature, and TDS.
 * **Interactive Map:** Visual tracking of potable, moderate, or hazardous/contaminated zones, hosted on Netlify.
@@ -40,7 +48,7 @@ The H2Know ecosystem bridges hardware components and cloud software solutions se
    * Custom-designed enclosure, modeled in *Autodesk Fusion 360* and 3D printed.
 2. **Cloud Backend:**
    * **Firebase Realtime Database:** Instant and secure storage of the data streams received from the device.
-3. **Mobile & Web Application:**
+3. **Web Application:**
    * Built using the **FlutterFlow** platform, synchronized via API calls with Firebase.
    * Advanced modules (the Map and Chatbot) built with **Lovable AI** and deployed on **Netlify**.
 
